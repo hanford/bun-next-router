@@ -1,0 +1,17 @@
+{
+  "name": "next-router",
+  "version": "0.0.48",
+  "main": "index.js",
+  "dependencies": {
+    "next": "12.0.2",
+    "react": "beta",
+    "react-dom": "beta",
+    "react-is": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.19",
+    "bun-framework-next": "^12",
+    "typescript": "^4.4.0",
+    "react-refresh": "0.10.0"
+  }
+}
