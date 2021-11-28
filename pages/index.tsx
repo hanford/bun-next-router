@@ -25,9 +25,9 @@ export default function Home({}) {
 
         <button onClick={() => router.push("/foo")}>useRouter.push</button>
 
-        {/* <Link href="/">
+        <Link href="/foo">
           <a>Home</a>
-        </Link> */}
+        </Link>
       </main>
     </div>
   );
